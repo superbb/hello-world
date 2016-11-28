@@ -1,0 +1,6 @@
+{
+  "name": "Hello-world",
+  "tagline": "The hello world repository =D",
+  "body": "hello-world\r\n===========\r\n\r\nThe hello world repository =D\r\n\r\nLlamas alpacas bears sheep yogi\r\n\r\nTo create a paragraph, simply create a block of text that is not separated by one or more blank lines. Blocks of text separated by one or more blank lines will be parsed as paragraphs.\r\n\r\nIf you want to create a line break, end a line with two or more spaces, then hit Return/Enter.\r\n\r\nMarkdown supports two header formats. The wiki editor uses the “atx’-style headers. Simply prefix your header text with the number of # characters to specify heading depth. For example: # Header 1, ## Header 2 and ### Header 3 will be progressively smaller headers. You may end your headers with any number of hashes.\r\n\r\n# Header 1\r\n\r\nText\r\n\r\n## Header 2\r\n\r\nText 2\r\n\r\n### Header 3\r\n\r\nText 3\r\n\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
